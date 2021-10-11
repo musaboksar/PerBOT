@@ -1,0 +1,10 @@
+D:\Bakım Takip Programı\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+D:\Bakım Takip Programı\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+D:\Bakım Takip Programı\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+D:\Bakım Takip Programı\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+D:\Bakım Takip Programı\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+D:\Bakım Takip Programı\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+D:\Bakım Takip Programı\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+D:\Bakım Takip Programı\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+D:\Bakım Takip Programı\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+D:\Bakım Takip Programı\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
